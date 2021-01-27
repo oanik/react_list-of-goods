@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,YACF,CAMA,YACE,WACF,CAEA,QACE,YACF","file":"main.7c0ec03f.chunk.css","sourcesContent":[".Container {\n  display: flex;\n}\n\nbutton {\n  margin: 10px;\n}\n\nform {\n  margin: 10px;\n}\n\n.Action {\n  display: none;\n}\n"]}
